@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "React Basics"
+    },
+    {
+      "id": "2",
+      "title": "React Router"
+    }
+  ]
+}
